@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مرشد الحج والعمرة</string>
+    <string name="Btn_Umrah">مناسك العمرة</string>
+    <string name="Btn_Hajj">مناسك الحج</string>
+    <string name="navigation_drawer_open">فتح القائمة الجانبية</string>
+    <string name="navigation_drawer_close">اغلاق القائمة الجانبية</string>
+    <string name="action_settings">اعدادات</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_start">بدأ الارشاد</string>
+    <string name="menu_chatbot">شاتبوت</string>
+    <string name="menu_offline">دليل الشامل</string>
+    <string name="menu_share">مشاركة</string>
+    <string name="menu_send">عنا</string>
+    <string name="title_activity_maps">الخريطة</string>
+
+    <string name="Btn_Start">لنبدأ</string>
+    <string name="Btn_Inc">زيادة العداد</string>
+    <string name="Btn_Dec">انقاص العداد</string>
+    <string name="Btn_Rest">اعادة العداد</string>
+    <string name="Text_Turn">انت في الشوط :</string>
+    <string name="Title_Tawaf">الطواف</string>
+    <string name="Title_Saffa">الصفا والمروة</string>
+    <string name="Text_Saffa">يكون السعيُ بين الصفا والمروة سبعة أشواط متتابعة، ويبدأ السعي من الصفا ويُختم في المروة، ويُعدّ السعي من الصفا للمروة شوط واحد ومن المروة إلى الصفا شوط ثانٍ وهكذا، أي أنَّهُ من الصفا ذَهابًا إلى المروة يُحسَب شوطًا واحدًا، وإيابًا من المروة إلى الصفا شوطًا ثانيًا، وهكذا يبدأ الساعي من الصفا حتى يُكمِلَ السبعة أشواط مُنتهيًا في المروة.</string>
+    <string name="Text_Start">"يرجى اختيار المنسك الذي تريده قبل البدأ "</string>
+    <string name="Text_Done">"تم"</string>
+    <string name="Title_UserManual">User Manual</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hajj and Umrah E-guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Hajj and Umrah E-guide</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="what_s_on_your_mind">أنا في الخدمة تفضل بسؤالي؟</string>
+    <string name="menu_refresh">تحديث</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_start">Start Guide</string>
+    <string name="menu_chatbot">ChatBot</string>
+    <string name="menu_offline">Offline mode</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">About</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="Btn_Umrah">مناسك العمرة</string>
+    <string name="Btn_Hajj">مناسك الحج</string>
+    <string name="Btn_Start">Start</string>
+    <string name="Btn_Inc">Increment</string>
+    <string name="Btn_Dec">Decrement</string>
+    <string name="Btn_Rest">Rest</string>
+    <string name="Text_Turn">The current turn  :</string>
+    <string name="Title_Tawaf">Al-Tawaf</string>
+    <string name="Title_Saffa">Al-Saffa W Al-Marwa</string>
+    <string name="Text_Saffa">The quest between Al-Safa and Al-Marwah is seven successive runs, and the quest begins from Al-Safa and is concluded in Al-Marwa, and the pursuit of Al-Safa for Al-Marwa is one run and from Al-Marwa to Al-Safa a second run and so on, that is, from Al-Safa going to Al-Marwa is calculated one run, and return from Al Marwa to Al-Safa a second run Thus, the Courier starts from Al-Safa until he completes the seven runs and ends in Al-Marwah.</string>
+    <string name="Text_Start">Please choose the rite you want before starting</string>
+    <string name="Text_Done">"Done"</string>
+    <string name="Title_UserManual">User Manual</string>
+
+
+</resources>
